@@ -17,3 +17,9 @@ Trajet d une requete : navigateur, route Next.js (session), service Python (jeto
 
 ## Limites connues
 Pas de detection de vivacite, seuil de similarite a calibrer, photos stockees en local, pas de HTTPS en local, cles de groupe partagees par service.
+
+## Demonstration video
+
+[![Demonstration du MVP : pointage par QR code et reconnaissance faciale](https://img.youtube.com/vi/UDCsO2Agd3Q/hqdefault.jpg)](https://www.youtube.com/watch?v=UDCsO2Agd3Q)
+
+Lien de la video : https://www.youtube.com/watch?v=UDCsO2Agd3Q
